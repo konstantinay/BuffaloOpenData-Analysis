@@ -1,5 +1,6 @@
 # BuffaloOpenData-Analysis
 Optional University Project
+
 Using a Python script we collect data from OpenData Buffalo website and process only necessary data to create charts for
 * Total quantities of recyclable items per year
 * Overall presentation of recyclable items and their corresponding quantities
